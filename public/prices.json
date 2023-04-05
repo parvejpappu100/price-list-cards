@@ -1,0 +1,27 @@
+[  {
+     "id": 1,
+     "name": "Basic",
+     "price": 30,
+     "features": [
+        "Access to gym equipment during regular hours only"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium",
+    "price": 50,
+    "features": [
+      "Access to gym equipment during regular hours",
+      "Additional amenities"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ultimate",
+    "price": 80,
+    "features": [
+      "Access to gym equipment 24/7",
+      "All premium amenities"
+    ]
+  }
+]
